@@ -1,0 +1,11 @@
+{
+  "name": "@macklinu/cli",
+  "description": "A CLI for all of my JavaScript tooling needs",
+  "version": "0.0.0-development",
+  "license": "MIT",
+  "author": "Mackie Underdown <macklinu@gmail.com>",
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "^1.16.4"
+  }
+}
